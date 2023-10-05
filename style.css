@@ -1,0 +1,31 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.heading2{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.sidetext{
+    display: flex;
+    width: 280px; 
+    height: 400px;
+    background-color: rgb(6, 6, 43);
+    padding: 20px;
+    color: white;
+}
+.bodytext{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.midbody{
+    display: flex;
+    flex-direction: row;
+}
+.bottompart{
+    display: flex;
+    justify-content: space-between;
+}
